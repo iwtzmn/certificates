@@ -1,6 +1,3 @@
-# certificates
-
-
 # QA Certificates
 
 This repository contains certificates related to my professional development in the field of Software Quality Assurance.
