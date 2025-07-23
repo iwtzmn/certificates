@@ -6,7 +6,7 @@ This repository contains certificates related to my professional development in 
 
 - **ISTQB Foundation Level Certificate**  
   *Issued: July 2024*  
-  [View PDF](https://github.com/YOUR_USERNAME/certificates/raw/main/ISTQB_Certificate.pdf)
+  [View PDF](https://github.com/iwtzmn/certificates/blob/main/ISTQB_Certificate.pdf)
 
 ## 🔧 Skills Verified
 
